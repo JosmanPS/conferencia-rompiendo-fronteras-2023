@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+  @font-face {
+    font-family: 'AcuminVariableConcept';
+    src: url('~/assets/fonts/AcuminVariableConcept.otf') format('opentype');
+  }
+
+  @font-face {
+    font-family: 'AppleChancery';
+    src: url('~/assets/fonts/AppleChancery.ttf') format('truetype');
+  }
+}
+
+.text-primary {
+  color: #0B162F;
+}
+
+.text-canary {
+  color: #FFD37D;
+}
+
+.bg-canary {
+  background-color: #FFD37D;
+}
+
+.bg-primary {
+  background-color: #0B162F;
+}
+
+button.bg-canary:hover {
+  background-color: #ffc757;
+}
+
+.difference {
+  mix-blend-mode: difference;
+}
+
+.bg-cream {
+  background-color: #f1f0e3;
+}
+
+.font-condensed {
+  font-stretch: condensed;
+}
