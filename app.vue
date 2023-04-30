@@ -3,6 +3,7 @@
     <Hero />
     <About />
     <BannerOne />
+    <Pricing />
     <MoreInfoBanner />
     <Register />
     <Footer />

@@ -14,7 +14,7 @@
 
 <style>
 .banner-section {
-  background-image: url(/img/background-1.jpg);
+  background-image: url(/img/conf-bg-2-min.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
