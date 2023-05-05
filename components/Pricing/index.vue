@@ -1,6 +1,6 @@
 <template>
   <section class="bg-cream">
-    <div class="container mx-auto py-24">
+    <div class="container mx-auto py-24 px-4">
       <div class="grid md:grid-cols-2 gap-8">
         <div
           v-for="price in prices"

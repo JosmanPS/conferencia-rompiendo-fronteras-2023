@@ -1,5 +1,5 @@
 <template>
-  <section class="banner-section py-24 relative overflow-hidden">
+  <section class="banner-section py-24 px-4 relative overflow-hidden">
     <div class="container mx-auto">
       <div class="max-w-4xl mx-auto text-center">
         <p class="text-3xl font-serif text-white difference">

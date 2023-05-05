@@ -1,10 +1,10 @@
 <template>
   <section class="bg-cream">
-    <div class="container mx-auto py-24">
+    <div class="container mx-auto py-24 px-4">
       <h2 class="text-6xl font-condensed font-bold text-primary mb-12">
         Fuiste llamado para impactar las naciones.
       </h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-x-6">
         <div>
           <p class="text-primary font-medium text-lg mb-4">
             Jesús nos dejó la misión de «Ir y hacer discípulos de todas las

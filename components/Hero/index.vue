@@ -1,14 +1,14 @@
 <template>
-  <section class="hero-section pt-12 pb-24 relative overflow-hidden">
+  <section class="hero-section pt-12 pb-24 px-2 relative overflow-hidden">
     <div class="container mx-auto">
-      <div class="flex align-middle justify-between">
+      <div class="flex align-middle flex-col justify-center sm:flex-row sm:justify-between">
         <img
-          class="difference w-[100px] h-[100px]"
+          class="difference w-[100px] h-[100px] mx-auto sm:mx-0"
           src="/img/logo.png"
           alt="Rompiendo Fronteras"
         />
         <img
-          class="h-[100px] mb-4"
+          class="h-[100px] mb-4 hidden sm:block"
           src="/img/conf-map-min.png"
           alt="Rompiendo Fronteras"
         />
@@ -16,23 +16,23 @@
       <div class="text-center mx-auto max-w-4xl mb-12">
         <div class="relative py-24">
           <img
-            class="max-w-[800px] mx-auto"
+            class="max-w-[800px] w-full mx-auto"
             src="/img/title-conf-min.png"
             alt="Conferencia Rompiendo Fronteras 2023"
           />
-          <img class="hero-title-globe max-w-[600px] opacity-50" src="/img/globe.png" alt="Para las naciones" />
+          <img class="hero-title-globe w-full max-w-[600px] opacity-50" src="/img/globe.png" alt="Para las naciones" />
         </div>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-3">
-        <div>
+        <div class="text-center mb-8 sm:mb-0 sm:text-left">
           <p class="uppercase font-condensed text-white difference text-lg font-semibold">
             8-10 de Septiembre
           </p>
         </div>
-        <div class="text-center">
+        <div class="text-center mb-8 sm:mb-0">
           <CTAButton />
         </div>
-        <div class="text-right">
+        <div class="text-center sm:text-right">
           <p class="uppercase font-condensed text-white difference text-lg font-semibold">
             Tegucigalpa, Honduras
           </p>
