@@ -14,11 +14,14 @@
         />
       </div>
       <div class="text-center mx-auto max-w-4xl mb-12">
-        <img
-          class="max-w-[700px] mx-auto"
-          src="/img/conf-globe-min.png"
-          alt="Conferencia Rompiendo Fronteras 2023"
-        />
+        <div class="relative py-24">
+          <img
+            class="max-w-[800px] mx-auto"
+            src="/img/title-conf-min.png"
+            alt="Conferencia Rompiendo Fronteras 2023"
+          />
+          <img class="hero-title-globe max-w-[600px] opacity-50" src="/img/globe.png" alt="Para las naciones" />
+        </div>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-3">
         <div>
@@ -36,7 +39,7 @@
         </div>
       </div>
     </div>
-    <img class="hero-globe" src="/img/globe.png" alt="Para las naciones" />
+    <!-- <img class="hero-globe" src="/img/globe.png" alt="Para las naciones" /> -->
   </section>
 </template>
 
@@ -46,6 +49,7 @@
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  z-index: -2;
 }
 
 .hero-globe {
@@ -55,6 +59,19 @@
   bottom: -200px;
   width: 600px;
   height: auto;
+  -webkit-animation: spin 16s linear infinite;
+  -moz-animation: spin 16s linear infinite;
+  animation: spin 16s linear infinite;
+  z-index: -1;
+}
+
+.hero-title-globe {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
   -webkit-animation: spin 16s linear infinite;
   -moz-animation: spin 16s linear infinite;
   animation: spin 16s linear infinite;
