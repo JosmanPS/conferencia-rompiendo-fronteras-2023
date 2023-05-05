@@ -7,40 +7,43 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
           <p class="text-primary font-medium text-lg mb-4">
-            Have you felt dry and weary from this last season of life? Have you
-            been running in your own strength and coming up short? Maybe you've
-            found yourself looking for answers and, even in finding them,
-            feeling like it's still not satisfying your longing for truth.
-          </p>
-
-          <p class="text-primary font-medium text-lg mb-4">
-            The answer is this—there is more. More grace. More anointing. More
-            truth. More power. But it is only found in the raw, unrelenting
-            pursuit of the presence of God.
+            Jesús nos dejó la misión de «Ir y hacer discípulos de todas las
+            naciones». El Señor te está llamando a despertar y equiparte en este
+            tiempo pues ¡tú eres parte de esa misión!
           </p>
           <p class="text-primary font-medium text-lg mb-4">
-            For over 20 years, we have staked our lives on this foundation, that
-            above all else, we need to live wholly in God’s presence. More can
-            be accomplished as a lover than as a doer, and God is calling you
-            back to your first love, and to the simple truths of who He is, who
-            He says you are, and how you are called to change the world with
-            Him.
+            Cumplir la misión de Jesús es imposible en nuestras propias fuerzas,
+            pero con el poder del Espíritu Santo podemos lograr más de lo que
+            podemos creer o imaginar. Esta es una convocatoria para juntos
+            buscar más de Su Presencia y ser impartidos de una unción fresca
+            para manifestar el Reino de Dios en la tierra.
+          </p>
+          <p class="text-primary font-medium text-lg mb-4">
+            Cumplir la misión de Jesús es imposible en nuestras propias fuerzas,
+            pero con el poder del Espíritu Santo podemos lograr más de lo que
+            podemos creer o imaginar. Este es un tiempo para juntos buscar más
+            de Su Presencia y ser impartidos de una unción fresca para
+            manifestar el Reino de Dios en la tierra.
           </p>
         </div>
         <div>
           <p class="text-primary font-medium text-lg mb-4">
-            At Open Heavens 2022, we are creating a space for God’s oil to fill
-            you once again to overflowing, where there is grace to encounter Him
-            without limit. For three days, we will devoutly pursue His presence
-            with unashamed love and passion, and gain tools and keys for walking
-            out an intimacy that, in its overflow, will change the world.
+            Como iglesia el Señor nos ha permitido servir a personas de diversas
+            naciones alrededor del mundo que hoy están siendo utilizados por el
+            Señor para influir a la sociedad a través del ministerio, ciencias,
+            política, medios de comunicación y las artes.
           </p>
           <p class="text-primary font-medium text-lg mb-4">
-            Come and drink from the One who makes every other well run dry
-            because He wants to fill you to overflow. Come and be filled again,
-            refreshed and restored to walk in the grace of intimacy, and watch
-            your life thrive in the way that only God’s presence can cause it
-            to.
+            Este año personas de diferentes naciones nos reuniremos para ser
+            equipados para mostrar más del amor y poder de Jesús en nuestra
+            esfera de influencia. A través de los tiempos de adoración,
+            enseñanza e impartición serás equipado para ser un embajador del
+            Reino de los Cielos en el lugar al que Jesús te ha enviado.
+          </p>
+          <p class="text-primary font-medium text-lg mb-4">
+            ¡No te pierdas esta convocatoria de Dios! Sabemos que el Señor te ha
+            llamado y quiere darte todas las herramientas para cumplir con tu
+            propósito y misión.
           </p>
         </div>
       </div>
