@@ -63,7 +63,7 @@
       <div v-if="selectedDay === 'saturday'" class="max-w-3xl mx-auto">
         <div class="bg-white rounded-2xl p-6 border">
           <h3 class="text-primary font-bold font-condensed text-2xl mb-6">
-            Viernes 8 de Septiembre
+            Sábado 9 de Septiembre
           </h3>
           <table class="text-primary w-full text-center rounded-xl">
             <thead>
