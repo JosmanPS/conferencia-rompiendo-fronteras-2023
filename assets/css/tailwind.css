@@ -31,6 +31,10 @@
   background-color: #0B162F;
 }
 
+.border-primary {
+  border-color: #0B162F;
+}
+
 button.bg-canary:hover {
   background-color: #ffc757;
 }

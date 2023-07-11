@@ -4,6 +4,7 @@
     <About />
     <BannerOne />
     <Speakers />
+    <Agenda />
     <Pricing />
     <BannerTwo />
     <Register />
