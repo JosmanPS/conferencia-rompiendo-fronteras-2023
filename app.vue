@@ -3,8 +3,9 @@
     <Hero />
     <About />
     <BannerOne />
+    <Speakers />
     <Pricing />
-    <MoreInfoBanner />
+    <BannerTwo />
     <Register />
     <Footer />
   </main>
