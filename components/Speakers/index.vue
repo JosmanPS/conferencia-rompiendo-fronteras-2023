@@ -76,7 +76,7 @@ A través de estos ministerios están alcanzando y formando líderes con un cora
 
 Es graduada de la Escuela Agrícola Panamericana Zamorano como Ing. en Agronegocios. Lugar donde Dios la llamó para pastorear una iglesia de estudiantes desde el 2010. El mover de Dios en este lugar se fue extendiendo alcanzando jóvenes profesionales que no formaban parte de esta institución, lo cual llevó a la fundación de la iglesia en Tegucigalpa (capital de Honduras), en el 2014.<br/><br/>
  `,
-    image: '/img/sindy-03.jpg',
+    image: '/img/sindy-04.jpg',
   },
   {
     name: 'Josman Proudinat',
