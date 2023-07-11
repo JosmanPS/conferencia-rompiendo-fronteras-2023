@@ -1,7 +1,7 @@
 <template>
   <section class="bg-cream">
     <div class="container mx-auto py-24 px-4">
-      <h2 class="text-6xl font-condensed font-bold text-primary mb-12">
+      <h2 class="text-5xl md:text-6xl font-condensed font-bold text-primary mb-12">
         Conferencistas.
       </h2>
       <div v-if="showBio">
