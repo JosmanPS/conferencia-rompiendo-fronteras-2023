@@ -5,8 +5,8 @@
     <BannerOne />
     <Speakers />
     <Agenda />
-    <Pricing />
     <BannerTwo />
+    <Pricing />
     <Register />
     <Footer />
   </main>

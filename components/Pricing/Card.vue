@@ -5,8 +5,8 @@
       <div class="uppercase text-canary font-semibold text-2xl">{{ props.title }}</div>
     </div>
     <div class="py-12 text-center">
-      <div class="text-primary font-bold text-7xl mt-2 mb-8">${{ props.price }}</div>
-      <p class="text-primary mb-8">{{ props.description }}</p>
+      <div class="text-primary font-bold text-7xl mt-2 mb-8">L {{ props.price }}</div>
+      <p class="text-primary mb-8" v-html="props.description"></p>
       <CTAButton />
     </div>
   </div>

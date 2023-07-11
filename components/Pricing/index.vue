@@ -21,13 +21,13 @@
 const prices = [
   {
     title: 'Preventa',
-    price: 20,
-    description: '*Válido hasta el 1o de Agosto del  2023',
+    price: 500,
+    description: '*Válido hasta el 17 de Julio del  2023 <br/>**Valor en USD: $20.00',
   },
   {
     title: 'Venta',
-    price: 25,
-    description: '*A partir del 1o de Agosto del  2023',
+    price: 600,
+    description: '*A partir del 17 de Julio del  2023<br/>**Valor en USD: $25.00',
   },
 ]
 </script>
