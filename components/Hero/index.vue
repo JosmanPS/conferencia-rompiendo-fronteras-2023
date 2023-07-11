@@ -26,7 +26,7 @@
       <div class="grid grid-cols-1 md:grid-cols-3">
         <div class="text-center mb-8 sm:mb-0 sm:text-left">
           <p class="uppercase font-condensed text-white difference text-lg font-semibold">
-            8-10 de Septiembre
+            8-9 de Septiembre
           </p>
         </div>
         <div class="text-center mb-8 sm:mb-0">
