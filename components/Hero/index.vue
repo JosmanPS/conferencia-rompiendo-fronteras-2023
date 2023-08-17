@@ -29,7 +29,7 @@
             8-9 de Septiembre
           </p>
         </div>
-        <div class="text-center mb-8 sm:mb-0">
+        <div class="text-center mb-8 sm:mb-0 z-50">
           <CTAButton />
         </div>
         <div class="text-center sm:text-right">
@@ -49,7 +49,6 @@
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  z-index: -2;
 }
 
 .hero-globe {
@@ -75,6 +74,7 @@
   -webkit-animation: spin 16s linear infinite;
   -moz-animation: spin 16s linear infinite;
   animation: spin 16s linear infinite;
+  z-index: 1;
 }
 
 @-moz-keyframes spin {
