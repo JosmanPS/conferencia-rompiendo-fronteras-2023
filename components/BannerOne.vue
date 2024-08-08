@@ -7,7 +7,7 @@
           Hombre y mujer los creó, y los bendijo con estas palabras: «Sean
           fructíferos y multiplíquense; llenen la tierra y sométanla; dominen a
           los peces del mar y a las aves del cielo, y a todos los reptiles que
-          se arrastran por el suelo.» (Gn. 1:27—28 NVI)
+          se arrastran por el suelo.» (Gn. 1:27—28)
         </p>
       </div>
     </div>

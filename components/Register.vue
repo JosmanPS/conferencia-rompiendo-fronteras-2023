@@ -6,7 +6,7 @@
           Regístrate
         </h2>
         <p class="font-medium text-xl mb-16">
-          Déjanos tus datos y un miembro de nuetro equipo te contactará para
+          Déjanos tus datos y un miembro de nuestro equipo te contactará para
           darte las instrucciones de pago y completar tu registro.
         </p>
         <div class="bg-white text-left shadow-lg rounded-xl w-sm px-12 py-12">
@@ -100,7 +100,7 @@
               v-if="success"
               class="bg-green-200 border-green-300 rounded px-4 py-4 text-green-800 border mb-8"
             >
-              Se ha completado ru registro. Pronto un miembro de nuestro equipo
+              Se ha completado tu registro. Pronto un miembro de nuestro equipo
               te contactará.
             </div>
             <button
