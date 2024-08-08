@@ -12,5 +12,8 @@
     "@nuxtjs/tailwindcss": "^6.6.6",
     "@types/node": "^18",
     "nuxt": "^3.4.2"
+  },
+  "dependencies": {
+    "vue-recaptcha-v3": "^2.0.1"
   }
 }

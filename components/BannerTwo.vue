@@ -1,26 +1,18 @@
 <template>
-  <section class="banner-section py-24 px-4 relative overflow-hidden">
+  <section class="bg-primary py-24 px-4 relative overflow-hidden">
     <div class="container mx-auto">
       <div class="max-w-4xl mx-auto text-center">
-        <p class="text-3xl font-serif text-white difference">
-          Todas las naciones que hiciste vendrán y adorarán delante de ti,
-          Señor, Y glorificarán tu nombre. Porque tú eres grande, y hacedor de
-          maravillas; Solo tú eres Dios.
+        <p class="text-3xl font-serif text-cream">
+          Mi Padre es glorificado cuando ustedes dan mucho fruto y muestran así
+          que son mis discípulos. (Juan 15:8)
         </p>
       </div>
     </div>
-    <img class="banner-globe" src="/img/globe.png" alt="Para las naciones" />
+    <img class="banner-orange" src="/img/orange-cream.png" alt="Naranja" />
   </section>
 </template>
 
 <style>
-.banner-section {
-  background-image: url(/img/conf-bg-2-min.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
-
 .banner-globe {
   position: absolute;
   opacity: 60%;

@@ -1,30 +1,26 @@
 <template>
-  <section class="banner-section py-24 px-4 relative overflow-hidden">
+  <section class="bg-primary py-24 px-4 relative overflow-hidden">
     <div class="container mx-auto">
       <div class="max-w-4xl mx-auto text-center">
-        <p class="text-3xl font-serif text-white difference">
-          Antes que te formase en el vientre te conocí, y antes que nacieses te
-          santifiqué, te di por profeta a las naciones.
+        <p class="text-3xl font-serif text-cream">
+          Y Dios creó al ser humano a su imagen; lo creó a imagen de Dios.
+          Hombre y mujer los creó, y los bendijo con estas palabras: «Sean
+          fructíferos y multiplíquense; llenen la tierra y sométanla; dominen a
+          los peces del mar y a las aves del cielo, y a todos los reptiles que
+          se arrastran por el suelo.» (Gn. 1:27—28 NVI)
         </p>
       </div>
     </div>
-    <img class="banner-globe" src="/img/globe.png" alt="Para las naciones" />
+    <img class="banner-orange" src="/img/orange-cream.png" alt="Naranja" />
   </section>
 </template>
 
 <style>
-.banner-section {
-  background-image: url(/img/conf-bg-2-min.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
-
-.banner-globe {
+.banner-orange {
   position: absolute;
   opacity: 60%;
-  right: -200px;
-  bottom: -200px;
+  right: -150px;
+  bottom: -150px;
   width: 600px;
   height: auto;
   -webkit-animation: spin 16s linear infinite;

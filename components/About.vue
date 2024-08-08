@@ -1,53 +1,46 @@
 <template>
   <section class="bg-cream">
     <div class="container mx-auto py-24 px-4">
-      <h2 class="text-6xl font-condensed font-bold text-primary mb-12">
-        Fuiste llamado para impactar las naciones.
+      <h2 class="text-6xl font-serif font-bold mb-12">
+        Fuiste creado para dar mucho fruto.
       </h2>
       <div class="max-w-3xl mx-auto">
         <iframe
-            async
-            class="aspect-video w-full mb-12"
-            src="https://www.youtube.com/embed/j8r9jnydpu0"
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-          ></iframe>
+          async
+          class="aspect-video w-full mb-12"
+          src="https://www.youtube.com/embed/oFuNWsKfixE"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-x-6">
         <div>
-          <p class="text-primary font-medium text-xl mb-4">
-            Jesús nos dejó la misión de «Ir y hacer discípulos de todas las
-            naciones». El Señor te está llamando a despertar y equiparte en este
-            tiempo pues ¡tú eres parte de esa misión!
+          <p class="font-medium text-xl mb-4">
+            En un mundo donde todos buscamos ser más productivos y exitosos, a
+            menudo olvidamos que la verdadera clave está en la Palabra de Dios.
+            Desde el principio, Dios nos creó para ser fructíferos y
+            multiplicarnos, llenando la tierra con su propósito.
           </p>
-          <p class="text-primary font-medium text-xl mb-4">
-            Cumplir la misión de Jesús es imposible en nuestras propias fuerzas,
-            pero con el poder del Espíritu Santo podemos lograr más de lo que
-            podemos creer o imaginar. Esta es una convocatoria para juntos
-            buscar más de Su Presencia y ser impartidos de una unción fresca
-            para manifestar el Reino de Dios en la tierra.
+          <p class="font-medium text-xl mb-4">
+            Nuestra conferencia se basa en el lema "Sé fructífero y
+            multiplícate", inspirado en Génesis 1:27-28. Aquí, aprenderemos cómo
+            alcanzar nuestro máximo potencial en Cristo y superar obstáculos que
+            nos impiden vivir de acuerdo a nuestro diseño original.
           </p>
         </div>
         <div>
-          <p class="text-primary font-medium text-xl mb-4">
-            Como iglesia el Señor nos ha permitido servir a personas de diversas
-            naciones alrededor del mundo que hoy están siendo utilizados por el
-            Señor para influir a la sociedad a través del ministerio, ciencias,
-            política, medios de comunicación y las artes.
+          <p class="font-medium text-xl mb-4">
+            No se trata solo de ser más productivos en lo que hacemos, sino de
+            transformar nuestras vidas conforme al plan de Dios. Tu vida debe
+            ser un reflejo del poder y la sabiduría de Dios.
           </p>
-          <p class="text-primary font-medium text-xl mb-4">
-            Este año personas de diferentes naciones nos reuniremos para ser
-            equipados para mostrar más del amor y poder de Jesús en nuestra
-            esfera de influencia. A través de los tiempos de adoración,
-            enseñanza e impartición serás equipado para ser un embajador del
-            Reino de los Cielos en el lugar al que Jesús te ha enviado.
-          </p>
-          <p class="text-primary font-medium text-xl mb-4">
-            ¡No te pierdas esta convocatoria de Dios! Sabemos que el Señor te ha
-            llamado y quiere darte todas las herramientas para cumplir con tu
-            propósito y misión.
+          <p class="font-medium text-xl mb-4">
+            Únete a nosotros para recibir un rompimiento en tu vida espiritual y
+            personal. Experimenta enseñanzas inspiradoras, adoración profunda y
+            una comunidad que te apoyará. ¡Prepárate para desatar tu potencial y
+            ver cómo los frutos de tu fe se multiplican!
           </p>
         </div>
       </div>

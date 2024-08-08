@@ -1,6 +1,6 @@
 <template>
   <button
-    class="text-primary font-condensed text-lg font-bold bg-canary px-4 py-2 transition"
+    class="text-cream font-condensed text-lg font-bold bg-orange rounded px-8 py-4 transition"
     @click="scrollToRegisterSection"
   >
     REGÍSTRATE YA

@@ -1,11 +1,11 @@
 module.exports = {
   theme: {
     fontFamily: {
-      sans: ["AcuminVariableConcept"],
-      serif: ["AppleChancery"],
-      mono: ["AcuminVariableConcept"],
-      display: ["AcuminVariableConcept"],
-      body: ["AcuminVariableConcept"]
+      sans: ["Lato"],
+      serif: ["Playfair Display"],
+      mono: ["Lato"],
+      display: ["Playfair Display"],
+      body: ["Lato"]
     },
     variants: {},
     plugins: []

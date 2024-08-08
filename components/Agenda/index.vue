@@ -2,7 +2,7 @@
   <section class="bg-cream">
     <div class="container mx-auto py-24 px-4">
       <h2
-        class="text-6xl font-condensed text-center font-bold text-primary mb-12"
+        class="text-6xl text-center font-bold font-serif mb-12"
       >
         Agenda.
       </h2>
@@ -10,13 +10,13 @@
         <div class="flex flex-row justify-center">
           <div
             class="bg-white rounded-l-xl p-4 cursor-pointer hover:border-primary border"
-            :class="{ 'bg-primary': selectedDay === 'friday' }"
+            :class="{ 'bg-orange': selectedDay === 'friday' }"
             @click="selectedDay = 'friday'"
           >
             <span
-              class="text-primary font-medium text-xl"
-              :class="{ 'text-canary': selectedDay === 'friday' }"
-              >Viernes 8 Sept</span
+              class="font-medium text-xl"
+              :class="{ 'text-cream': selectedDay === 'friday' }"
+              >Viernes 6 Sept</span
             >
           </div>
           <div
@@ -25,9 +25,9 @@
             @click="selectedDay = 'saturday'"
           >
             <span
-              class="text-primary font-medium text-xl"
-              :class="{ 'text-canary': selectedDay === 'saturday' }"
-              >Sábado 9 Sept</span
+              class="font-medium text-xl"
+              :class="{ 'text-cream': selectedDay === 'saturday' }"
+              >Sábado 7 Sept</span
             >
           </div>
         </div>
@@ -35,10 +35,10 @@
 
       <div v-if="selectedDay === 'friday'" class="max-w-3xl mx-auto">
         <div class="bg-white rounded-2xl p-6 border">
-          <h3 class="text-primary font-bold font-condensed text-2xl mb-6">
-            Viernes 8 de Septiembre
+          <h3 class="font-bold font-condensed text-2xl mb-6">
+            Viernes 6 de Septiembre
           </h3>
-          <table class="text-primary w-full text-center rounded-xl">
+          <table class="w-full text-center rounded-xl">
             <thead>
               <tr class="font-bold font-condensed text-xl border-b-2 p-2">
                 <th>HORARIO</th>
@@ -62,10 +62,10 @@
 
       <div v-if="selectedDay === 'saturday'" class="max-w-3xl mx-auto">
         <div class="bg-white rounded-2xl p-6 border">
-          <h3 class="text-primary font-bold font-condensed text-2xl mb-6">
-            Sábado 9 de Septiembre
+          <h3 class="font-bold font-condensed text-2xl mb-6">
+            Sábado 7 de Septiembre
           </h3>
-          <table class="text-primary w-full text-center rounded-xl">
+          <table class="w-full text-center rounded-xl">
             <thead>
               <tr class="font-bold font-condensed text-xl border-b-2 p-2">
                 <th>HORARIO</th>
@@ -100,10 +100,10 @@ const fridayAgenda = [
   { time: '18:00 - 18:45', desc: 'Apertura', break: false },
   {
     time: '18:45 - 19:30',
-    desc: 'Alabanza y adoración con Art Aguilera',
+    desc: 'Alabanza y adoración con Cesia Castro',
     break: false,
   },
-  { time: '19:30 - 20:30', desc: 'Plenaria #1 - Rodrigo Palmer', break: false },
+  { time: '19:30 - 20:30', desc: 'Plenaria #1 - Nerea de Osorto', break: false },
   { time: '20:30 - 21:00', desc: 'Ministración', break: false },
   { time: '21:00', desc: 'CIERRE DÍA 1', break: true },
 ]
@@ -121,16 +121,16 @@ const saturdayAgenda = [
     break: false,
   },
   { time: '11:15 - 12:30', desc: 'Plenaria #3 - Rodrigo Palmer', break: false },
-  { time: '12:30 - 13:45', desc: 'BREAK / COMIDA', break: true },
-  { time: '13:45 - 14:30', desc: 'Foro de liderazgo', break: false },
-  { time: '14:30 - 15:30', desc: 'Plenaria #4 - Art Aguilera', break: false },
+  { time: '12:30 - 14:00', desc: 'BREAK / COMIDA', break: true },
+  { time: '14:00 - 14:30', desc: 'Alabanza y Adoración con Cesia Castro', break: false },
+  { time: '14:30 - 15:30', desc: 'Plenaria #4', break: false },
   { time: '15:30 - 16:00', desc: 'Ministración', break: false },
   { time: '16:00 - 17:00', desc: 'Plenaria #5 - Josman & Sindy Proudinat', break: false },
   { time: '17:00 - 17:30', desc: 'Ministración', break: false },
   { time: '17:30 - 18:30', desc: 'BREAK', break: true },
   { time: '18:30 - 19:30', desc: 'Plenaria #6 - Rodrigo Palmer', break: false },
   { time: '19:30 - 20:00', desc: 'Ministración', break: false },
-  { time: '20:00 - 21:15', desc: 'Noche de adoración con Art Aguilera', break: false },
+  { time: '20:00 - 21:15', desc: 'Noche de adoración y grabación de Álbum', break: false },
 
 ]
 </script>
